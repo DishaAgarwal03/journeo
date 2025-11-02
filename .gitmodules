@@ -1,0 +1,9 @@
+[submodule "journeo-extension"]
+	path = journeo-extension
+	url = https://github.com/DishaAgarwal03/journeo-extension.git
+[submodule "journeo-webapp"]
+	path = journeo-webapp
+	url = https://github.com/DishaAgarwal03/journeo-webapp.git
+[submodule "journeo-planner"]
+	path = journeo-planner
+	url = https://github.com/DishaAgarwal03/journeo-planner.git
